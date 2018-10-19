@@ -42,27 +42,18 @@ html heading tags to manipulate text size.
   we downloaded from NPM will run our simple HTML shell. In your index.html file, inside
   the body tag, enter the following line...
 
-      `<div>Hello World</div>`
+  - `<div>Hello World</div>`
+    
+  5. Press `command s` on your keyboard to save the changes.
 
-    Press `command s` on your keyboard to save the changes.
+  6. Now, go to your terminal command, make sure you are in your cloned git directory "week1".
 
-    Now, go to your terminal command, make sure you are in your cloned git directory "week1".
+  7. Now run your simple http server. Note you must be in the projects directory. `live-server`
+    - When you run this command, you will see the following line... `Starting up http-server, serving ./ on: http://0.0.0.0:[someport]` This line shows the local port where your code will run.
 
-    Now run your simple http server. Note you must be in the projects directory..
+  8. Go to your browser and enter the following address with the appropriate port... `http://localhost:[someport]/`
 
-      `live-server`
+  Now you should be able to see your "Hello World" in the upper left hand corner of your browser.
 
-    When you run this command, you will see the following line...
-
-      `Starting up http-server, serving ./ on: http://0.0.0.0:[someport]`
-
-    This line shows the local port where your code will run.
-
-    Go to your browser and enter the following address with the appropriate port...
-
-      `http://localhost:[someport]/`
-
-    Now you should be able to see your "Hello World" in the upper left hand corner of your browser.
-
-    Congratulations!  You have just run your first HTML code.  Now, follow the instructions below
-    to complete your first assignment in your HTML shell.
+  Congratulations!  You have just run your first HTML code.  Now, follow the instructions below
+  to complete your first assignment in your HTML shell.
