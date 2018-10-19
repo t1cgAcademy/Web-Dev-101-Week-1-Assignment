@@ -12,7 +12,7 @@ html heading tags to manipulate text size.
 
 ## WEEK 1: ASSIGNMENT SETUP
 
-  1. In your terminal command, type `npm install watch-http-server -g`
+  1. In your terminal command, type `npm install live-server -g`
 
      This will install a simple, zero-configuration command-line http server.
 
@@ -31,9 +31,9 @@ html heading tags to manipulate text size.
 
       Clone the code you need into the directory you just created.
 
-        `git clone https://github.com/steveflint3/week1-Assignment.git`
+        `git clone https://github.com/t1cgAcademy/Web-Dev-101-Week-1-Assignment.git`
 
-      Open your cloned code in Atom
+      Open your cloned code in Atom or Visual Studio Code
 
         `atom .`
 
@@ -48,19 +48,19 @@ html heading tags to manipulate text size.
 
     Now, go to your terminal command, make sure you are in your cloned git directory "week1".
 
-    Now run your simple http server...
+    Now run your simple http server. Note you must be in the projects directory..
 
-      `watch-http-server`
+      `live-server`
 
     When you run this command, you will see the following line...
 
-      `Starting up http-server, serving ./ on: http://0.0.0.0:8080`
+      `Starting up http-server, serving ./ on: http://0.0.0.0:[someport]`
 
     This line shows the local port where your code will run.
 
-    Go to your browser and enter the following address...
+    Go to your browser and enter the following address with the appropriate port...
 
-      `http://localhost:8080/`
+      `http://localhost:[someport]/`
 
     Now you should be able to see your "Hello World" in the upper left hand corner of your browser.
 
