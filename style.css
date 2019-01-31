@@ -1,0 +1,45 @@
+/* using celebrityTitle (willisTitle) celebrity id, style the title tag by
+    changing text color to blue and centering the text */
+
+
+/* below is an example of styling by tag  */
+table,
+th,
+td {
+    /* style table, th and td tabs with background color of light green, 
+    and style the border 1px border width, solid, with color of black */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#willisPic,
+#willisVideo {
+    /* set height and width according to style judgement, I personally set the height
+    to 500px and the width to 400px, because my picture and video look best at that size */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* when styling by class, use period then class name as selector, as seen below */
+.classHidden {
+    display: none !important;
+}
+
+#link {
+    /* center the text */
+}
+
+.date {
+    /* center the text */
+}
+
+.centerClass {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    /* change background color of body to light blue */
+}
