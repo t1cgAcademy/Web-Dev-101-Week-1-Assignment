@@ -43,3 +43,14 @@ td {
 body {
     /* change background color of body to light blue */
 }
+
+footer {
+    /* Position should be fixed
+    Set the left edge position to 0
+    Set the right edge position to 0
+    Set top and bottom padding to 15px
+    Set width to 100 percent
+    Background color should be white
+    Text color should be black
+    All footer text should be aligned to center */
+}

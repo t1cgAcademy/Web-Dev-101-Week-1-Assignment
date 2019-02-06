@@ -8,6 +8,22 @@ year from a dropdown menu.
 
 Use CSS to manipulate style
 
+## Extra Tasks
+
+Aside from practicing was done in class, there are a few extra tasks for practice. Instructions are
+provided in alpha branch code.
+
+1. Add a footer to your page: The footer must inform the user that the site was "Posted by:" "Your Name".
+   The footer must also provide your "Contact Information:" in the form of an email. You will use an anchor
+   tag to set up your email display/link. The link will lead the user to a blank, ready to send email addressed
+   to you (whatever email address you use).
+
+2. Style your footer
+
+3. Review basic terminal commands (cd, ls, mkdir, cat). Find 3 new basic commands and write a brief summary
+   of what each one does. Then practice as many terminal commands as you can. You can make new directories, change
+   directories, make new files, list the files in a directory etc.
+
 ## WEEK 1: ASSIGNMENT SETUP
 
 1.  In your terminal command, type `npm install live-server -g`
