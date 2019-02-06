@@ -10,7 +10,7 @@ Use CSS to manipulate style
 
 ## Extra Tasks
 
-Aside from practicing was done in class, there are a few extra tasks for practice. Instructions are
+Aside from practicing what was done in class, there are a few extra tasks for practice. Instructions are
 provided in alpha branch code.
 
 1. Add a footer to your page: The footer must inform the user that the site was "Posted by:" "Your Name".
