@@ -45,7 +45,7 @@ body {
 }
 
 footer {
-    /* Position should be fixed
+    /* Position should be sticky
     Set the left edge position to 0
     Set the right edge position to 0
     Set top and bottom padding to 15px
