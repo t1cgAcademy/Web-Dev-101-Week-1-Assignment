@@ -1,51 +1,51 @@
 /* using celebrityTitle (willisTitle) celebrity id, style the title tag by
     changing text color to blue and centering the text */
 
-
 /* below is an example of styling by tag  */
 table,
 th,
 td {
-    /* style table, th and td tabs with background color of light green, 
+  /* style table, th and td tabs with background color of light green, 
     and style the border 1px border width, solid, with color of black */
-    margin-left: auto;
-    margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #willisPic,
 #willisVideo {
-    /* set height and width according to style judgement, I personally set the height
+  /* set height and width according to style judgement, I personally set the height
     to 500px and the width to 400px, because my picture and video look best at that size */
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* when styling by class, use period then class name as selector, as seen below */
 .classHidden {
-    display: none !important;
+  display: none !important;
 }
 
 #link {
-    /* center the text */
+  /* center the text */
 }
 
 .date {
-    /* center the text */
+  /* center the text */
 }
 
 .centerClass {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 body {
-    /* change background color of body to light blue */
+  /* change background color of body to light blue */
+  /* Set bottom margin to 100px */
 }
 
 footer {
-    /* Position should be sticky
+  /* Position should be fixed
     Set the left edge position to 0
     Set the right edge position to 0
     Set top and bottom padding to 15px
